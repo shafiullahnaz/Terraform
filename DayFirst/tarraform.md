@@ -1,4 +1,4 @@
-ChatGPT
+Terraform
 
 Terraform is an open-source infrastructure-as-code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage infrastructure using a high-level configuration language called HashiCorp Configuration Language (HCL), or JSON. Here's a breakdown of what Terraform is and how it works:
 What is Terraform?
