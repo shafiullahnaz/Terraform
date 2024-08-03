@@ -23,6 +23,7 @@ Take your skills up a notch by provisioning an EC2 instance on AWS using Terrafo
 Terraform State Basics
 
 Understand the importance of Terraform state files. Learn about desired and current states, and how Terraform manages these states to ensure infrastructure consistency.
+
 DaySecond 2: Advanced Terraform Configuration
 Understanding Providers and Resources
 
